@@ -1,0 +1,5 @@
+str = "hello world"
+print(str.split(' '))
+print("A B C D E".split( ))
+print("A B C D E".split(" ", 1))
+print("A B C D E".split(" ", 3))
